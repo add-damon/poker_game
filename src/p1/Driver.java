@@ -7,7 +7,7 @@ package p1;
  * @author damonren
  *
  */
-public class main {
+public class Driver {
 
     /**
      * @param args
