@@ -4,10 +4,10 @@
 package p1;
 
 /**
- * @author damonren
+ * @author DDD
  *
  */
-public class main {
+public class Driver {
 
     /**
      * @param args
