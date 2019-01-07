@@ -11,20 +11,29 @@ package p1;
 public class Card {
     
     /**
-     * Determines the Suit of the Card.
+     * Cards.
      */
-    private String[] suit = {"Spades", "Diamonds", "Hearts", "Clubs"};
+    private String[][] card = {
+        {"Spades", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"},
+        {"Diamonds", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"},
+        {"Hearts", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"},
+        {"Clubs", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"},
+    };
     
-    /**
-     * Determines the Face of the Card.
-     */
-    private String[] face = {"2", "3", "4", "5", "6", 
-            "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"};
-=======
- * @author damonren
- *
- */
-public class Card {
-
->>>>>>> refs/remotes/origin/master
+    
+    
+    public String getCard() {
+        String result = "";
+        
+        
+        return result;
+    }
+    
+    @Override
+    public String toString() {
+        String result = "";
+        
+        
+        return result;
+    }
 }
