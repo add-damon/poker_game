@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package p1;
 
 import java.util.Random;
@@ -19,3 +20,10 @@ public class Deck {
         Random random = new Random();
     }
 }
+=======
+package p1;
+
+public class Deck {
+
+}
+>>>>>>> refs/remotes/origin/master
